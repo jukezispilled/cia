@@ -273,7 +273,7 @@ export default function Dash() {
             </div>
             <h3 className="text-xl font-bold mb-1">Crypto Internet Autist</h3>
             <p className="mb-1">Codename: CIA</p>
-            <p className="mb-4 text-xs">CA: updating...</p>
+            <p className="mb-4 text-xs">CA: 8AnNSp4hvhdtopzcENLinNpp3pbDsS1Aq4jyyHyXpump</p>
             <div className="w-full">
               <div className="flex justify-between mb-1">
                 <span className="text-sm">Mission Readiness</span>
