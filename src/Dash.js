@@ -284,13 +284,13 @@ export default function Dash() {
             </h2>
             <div className="space-y-2 text-black">
                 <div className="bg-gray-100 p-2 rounded-md">
-                <strong>agent ansem:</strong> Pump is about to commence
+                <strong>agent ansem:</strong> pfpump is about to commence
                 </div>
                 <div className="bg-gray-100 p-2 rounded-md">
-                <strong>agent mitch:</strong> Almost done with RICO case for retardios
+                <strong>agent mitch:</strong> almost done with RICO case for retardios
                 </div>
                 <div className="bg-gray-100 p-2 rounded-md">
-                <strong>agent zachxbt:</strong> Someone just profited from buying and holding. Despicable
+                <strong>agent zachxbt:</strong> someone just profited from buying and holding. Despicable
                 </div>
                 <div className="bg-gray-100 p-2 rounded-md">
                 <strong>agent yenni:</strong> what's the next cook
