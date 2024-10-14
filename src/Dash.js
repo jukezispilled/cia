@@ -284,7 +284,7 @@ export default function Dash() {
             </h2>
             <div className="space-y-2 text-black">
                 <div className="bg-gray-100 p-2 rounded-md">
-                <strong>agent ansem:</strong> pfpump is about to commence
+                <strong>agent ansem:</strong> pump is about to commence
                 </div>
                 <div className="bg-gray-100 p-2 rounded-md">
                 <strong>agent mitch:</strong> almost done with RICO case for retardios
